@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://jemis:jemis123@devconncet.anwas.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "17f93f0c2b7fbcba7f8e",
+    "githubSecret":"e8fb4bda9127f3c5dd9f0be57db74a215d784157"
+}
